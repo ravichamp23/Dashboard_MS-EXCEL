@@ -6,11 +6,11 @@ This project features an interactive Dashboard built in Microsoft Excel to visua
 
 Key Features :
 
-✅ Clean and interactive layout using slicers and pivot charts
-📅 Monthly and yearly record
-🛒 Region-wise performance analysis
-📈 Dynamic charts
-💡 Designed for both operational and strategic users
+✅ Clean and interactive layout using slicers and pivot charts.
+📅 Monthly and yearly record.
+🛒 Region-wise performance analysis.
+📈 Dynamic charts.
+💡 Designed for both operational and strategic users.
 
 File Included :
 DASHBOARD.xlsx – Contains raw data, pivot tables, and the final interactive dashboard
